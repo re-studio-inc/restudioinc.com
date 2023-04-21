@@ -2,4 +2,4 @@
 
 # Link to our apps' privacy policy
 
-*   [Block Puzzle : Rotate](https://re-studio-inc.github.io/PrivacyPolicies/BlockPuzzle-Rotate/)
+*   [Block Puzzle : Rotate](https://www.restudioinc.com/BlockPuzzle-Rotate/)
